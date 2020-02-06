@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="250 500 0 250 50 200 250 400 450 200 500 250"/>
+  <polygon points="0 50 250 300 500 50 450 0 250 200 50 0"/>
+</svg>
